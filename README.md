@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThisIsMeAlex
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Informatics at univaq
+- 📫 How to reach me: ThisIsMe.Alessandro@gmail.com
